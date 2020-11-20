@@ -1,2 +1,3 @@
 # automatic_testing
-automatic_testing
+static_classic_automaticTesting
+
